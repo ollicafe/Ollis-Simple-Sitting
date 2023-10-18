@@ -1,0 +1,12 @@
+main: com.ollicafe.ollissimplesitting.OllisSimpleSitting
+name: OllisSimpleSitting
+version: 1.0
+author: olli
+website: ollicafe.com
+description: This plugin lets you take a break and sit down
+api-version: 1.16
+
+commands:
+  sit:
+    description: Use this to sit down where you are currently standing
+    usage: /sit
