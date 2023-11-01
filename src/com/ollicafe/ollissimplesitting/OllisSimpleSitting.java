@@ -1,6 +1,5 @@
 package com.ollicafe.ollissimplesitting;
 
-import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public class OllisSimpleSitting extends JavaPlugin {
